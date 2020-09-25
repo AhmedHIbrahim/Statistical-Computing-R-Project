@@ -2,7 +2,7 @@
 
 ## R markdown project:
 
-## Hands on:
-1. Creating Data Visualization Diagrams {ggplot2}
-2. Calculating Confidence intervals and visualising the results
-3. Making Hypothesis testing between the samples {One sample t.test, Two independenet samples t.test }
+## Hands-on:
+1. Creating Data Visualization of Diagrams {ggplot2}
+2. Calculating Confidence intervals and visualizing the results
+3. Making Hypothesis testing between the samples {One sample t.test, Two independent samples t.test }
