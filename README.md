@@ -1,6 +1,7 @@
 # Statistical-Computing-R-Project
 
 ## R markdown project:
+## R Language Scripts
 
 ## Hands-on:
 1. Creating Data Visualization of Diagrams {ggplot2}
